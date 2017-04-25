@@ -1,6 +1,9 @@
 # BICYCLE REAR LIGHT by Darryl Sloan
 # Tutorial on Youtube https://www.youtube.com/watch?v=S95W_gbjBNs&list=PLsoYifahFi50gKtSOX23HI6sgw9k8UGZb&index=2
 
+# Use the A button to toggle between fully On, Blinking and Off
+# Use the B button to control the blink rate
+
 from microbit import *
 
 status = 1
